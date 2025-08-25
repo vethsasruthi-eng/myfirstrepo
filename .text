@@ -1,0 +1,13 @@
+DEVOPS: 
+      devops = development+operations
+      developers (who write code)
+      operations(who develop/manage systems)
+      work together, instead of working in silos 
+REALTIME EXAMPLEE:
+     the developer writes code to add "track my order" feature
+     without devops : developer gives code to Ops team they manually deploy buge happen delays 
+     with Devops: code is automatically tested and deployed customers get updates faster and safely 
+DEVOPS helps you:
+     Release features faster(like adding new payment methods in Zomato)
+     fix bugs quickly (like fixing login issue in IRCTC)
+     Automate repetitive tasks(like server restarts,database backup)
